@@ -1,0 +1,15 @@
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Lambda Expressions\bin\Debug\net6.0\Lambda Expressions.exe
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Lambda Expressions\bin\Debug\net6.0\Lambda Expressions.deps.json
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Lambda Expressions\bin\Debug\net6.0\Lambda Expressions.runtimeconfig.json
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Lambda Expressions\bin\Debug\net6.0\Lambda Expressions.dll
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Lambda Expressions\bin\Debug\net6.0\Lambda Expressions.pdb
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Lambda Expressions\obj\Debug\net6.0\Lambda Expressions.csproj.AssemblyReference.cache
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Lambda Expressions\obj\Debug\net6.0\Lambda Expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Lambda Expressions\obj\Debug\net6.0\Lambda Expressions.AssemblyInfoInputs.cache
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Lambda Expressions\obj\Debug\net6.0\Lambda Expressions.AssemblyInfo.cs
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Lambda Expressions\obj\Debug\net6.0\Lambda Expressions.csproj.CoreCompileInputs.cache
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Lambda Expressions\obj\Debug\net6.0\Lambda Expressions.dll
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Lambda Expressions\obj\Debug\net6.0\refint\Lambda Expressions.dll
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Lambda Expressions\obj\Debug\net6.0\Lambda Expressions.pdb
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Lambda Expressions\obj\Debug\net6.0\Lambda Expressions.genruntimeconfig.cache
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Lambda Expressions\obj\Debug\net6.0\ref\Lambda Expressions.dll
