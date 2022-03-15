@@ -1,0 +1,15 @@
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\UniqueICollection\obj\Debug\net6.0\UniqueICollection.csproj.AssemblyReference.cache
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\UniqueICollection\obj\Debug\net6.0\UniqueICollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\UniqueICollection\obj\Debug\net6.0\UniqueICollection.AssemblyInfoInputs.cache
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\UniqueICollection\obj\Debug\net6.0\UniqueICollection.AssemblyInfo.cs
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\UniqueICollection\obj\Debug\net6.0\UniqueICollection.csproj.CoreCompileInputs.cache
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\UniqueICollection\bin\Debug\net6.0\UniqueICollection.exe
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\UniqueICollection\bin\Debug\net6.0\UniqueICollection.deps.json
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\UniqueICollection\bin\Debug\net6.0\UniqueICollection.runtimeconfig.json
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\UniqueICollection\bin\Debug\net6.0\UniqueICollection.dll
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\UniqueICollection\bin\Debug\net6.0\UniqueICollection.pdb
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\UniqueICollection\obj\Debug\net6.0\UniqueICollection.dll
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\UniqueICollection\obj\Debug\net6.0\refint\UniqueICollection.dll
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\UniqueICollection\obj\Debug\net6.0\UniqueICollection.pdb
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\UniqueICollection\obj\Debug\net6.0\UniqueICollection.genruntimeconfig.cache
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\UniqueICollection\obj\Debug\net6.0\ref\UniqueICollection.dll
