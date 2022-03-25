@@ -1,0 +1,15 @@
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\CustomLinkedList\bin\Debug\net6.0\CustomLinkedList.exe
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\CustomLinkedList\bin\Debug\net6.0\CustomLinkedList.deps.json
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\CustomLinkedList\bin\Debug\net6.0\CustomLinkedList.runtimeconfig.json
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\CustomLinkedList\bin\Debug\net6.0\CustomLinkedList.dll
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\CustomLinkedList\bin\Debug\net6.0\CustomLinkedList.pdb
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.csproj.AssemblyReference.cache
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.AssemblyInfoInputs.cache
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.AssemblyInfo.cs
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.dll
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\CustomLinkedList\obj\Debug\net6.0\refint\CustomLinkedList.dll
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.pdb
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.genruntimeconfig.cache
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\CustomLinkedList\obj\Debug\net6.0\ref\CustomLinkedList.dll
