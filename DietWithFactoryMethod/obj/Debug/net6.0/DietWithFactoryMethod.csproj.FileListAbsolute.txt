@@ -1,0 +1,15 @@
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Design Patterns\DietWithFactoryMethod\obj\Debug\net6.0\DietWithFactoryMethod.csproj.AssemblyReference.cache
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Design Patterns\DietWithFactoryMethod\obj\Debug\net6.0\DietWithFactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Design Patterns\DietWithFactoryMethod\obj\Debug\net6.0\DietWithFactoryMethod.AssemblyInfoInputs.cache
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Design Patterns\DietWithFactoryMethod\obj\Debug\net6.0\DietWithFactoryMethod.AssemblyInfo.cs
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Design Patterns\DietWithFactoryMethod\obj\Debug\net6.0\DietWithFactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Design Patterns\DietWithFactoryMethod\bin\Debug\net6.0\DietWithFactoryMethod.exe
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Design Patterns\DietWithFactoryMethod\bin\Debug\net6.0\DietWithFactoryMethod.deps.json
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Design Patterns\DietWithFactoryMethod\bin\Debug\net6.0\DietWithFactoryMethod.runtimeconfig.json
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Design Patterns\DietWithFactoryMethod\bin\Debug\net6.0\DietWithFactoryMethod.dll
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Design Patterns\DietWithFactoryMethod\bin\Debug\net6.0\DietWithFactoryMethod.pdb
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Design Patterns\DietWithFactoryMethod\obj\Debug\net6.0\DietWithFactoryMethod.dll
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Design Patterns\DietWithFactoryMethod\obj\Debug\net6.0\refint\DietWithFactoryMethod.dll
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Design Patterns\DietWithFactoryMethod\obj\Debug\net6.0\DietWithFactoryMethod.pdb
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Design Patterns\DietWithFactoryMethod\obj\Debug\net6.0\DietWithFactoryMethod.genruntimeconfig.cache
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\Design Patterns\DietWithFactoryMethod\obj\Debug\net6.0\ref\DietWithFactoryMethod.dll
